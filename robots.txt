@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://eetuimauxe.cpponsea.uk/sitemap.xml
